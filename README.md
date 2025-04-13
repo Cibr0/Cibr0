@@ -2,9 +2,9 @@
 
 🎓 Estudante de Ciência da Computação  
 💻 Desenvolvedor Front-end em transição para Fullstack  
-🎮 Também desenvolvedor de jogos 2D com **GameMaker Language (GML)**  
+🎮 Também desenvolvedor de jogos 2D com **GameMaker Language (GML)** e explorando o mundo com **C#**  
 🌐 Apaixonado por tecnologia, interfaces bonitas, código limpo e jogos indie  
-⚡ Trabalho com **React**, **Tailwind CSS**, **HTML/CSS**, **JavaScript**, **TypeScript**, **Python** e **GML**
+⚡ Trabalho com **React**, **Tailwind CSS**, **HTML/CSS**, **JavaScript**, **TypeScript**, **Python**, **GML** e um pouco de **C#**
 
 ---
 
@@ -17,6 +17,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![GML](https://img.shields.io/badge/GML-FF6F00?style=for-the-badge&logo=gamemaker&logoColor=white)
 
 ---
