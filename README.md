@@ -2,8 +2,8 @@
 
 🎓 Estudante de Ciência da Computação  
 💻 Desenvolvedor Front-end em transição para Fullstack  
-🌱 Atualmente aprendendo **TypeScript**, **Python** e explorando o back-end  
-⚡ Curto criar interfaces com **React**, **Tailwind CSS**, **HTML/CSS** e **JavaScript**  
+🌐 Apaixonado por tecnologia, interfaces bonitas e código limpo  
+⚡ Trabalho com **React**, **Tailwind CSS**, **HTML/CSS**, **JavaScript**, **TypeScript** e **Python**
 
 ---
 
@@ -16,13 +16,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-![Fabricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabricio-batista2005&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-batista2005&layout=compact&theme=tokyonight)
 
 ---
 
